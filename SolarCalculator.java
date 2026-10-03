@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SolarCalculator {
 
-    // Required method
+    
     public static double calculateTotalEnergy(double morningEnergy, double eveningEnergy) {
         return morningEnergy + eveningEnergy;
     }
